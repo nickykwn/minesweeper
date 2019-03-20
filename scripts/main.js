@@ -50,8 +50,12 @@ $(document).ready(function () {
     body.appendChild(tbl);
 
     tbl.setAttribute("border", "2");
+    gameboard.appendChild(tbl);
   }
 
+  function newGame(){
+
+  }
   function createMines(bombs){
 
   }

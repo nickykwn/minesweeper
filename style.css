@@ -7,5 +7,14 @@ h1 {
 }
 
 #gameboard {
-  text-align: center;
+
+}
+
+tbl {
+  float: left;
+}
+
+td {
+  height: 10px;
+  width: 10px;
 }
